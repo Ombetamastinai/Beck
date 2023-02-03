@@ -790,7 +790,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('ʀᴇᴘᴏ', url='https://github.com/Devil-Botz/Elsa'),
+            InlineKeyboardButton('ʀᴇᴘᴏ', url='https://www.youtube.com/@CinematoBugTV'),
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -894,7 +894,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "gtrans":
         buttons = [[
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='aswins'),
-            InlineKeyboardButton('𝙻𝙰𝙽𝙶 𝙲𝙾𝙳𝙴𝚂', url='https://cloud.google.com/translate/docs/languages')
+            InlineKeyboardButton('ʟᴀɴɢ ᴄᴏᴅᴇꜱ', url='https://cloud.google.com/translate/docs/languages')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -948,8 +948,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "deploy":
         buttons = [[
-           InlineKeyboardButton('ʀᴇᴘᴏ', url='https://github.com/Devil-Botz/Elsa'),
-           InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://t.me/Aswin_pm_Bot')
+           InlineKeyboardButton('ʀᴇᴘᴏ', url='https://www.youtube.com/@CinematoBugTV'),
+           InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://t.me/Om56577')
         ], [
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='aswin')
         ]]
