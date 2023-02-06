@@ -70,7 +70,7 @@
 * /font - fonts for your text
 * /deletefiles - PreDvD CamRip deletion
 ```
-<b> 😇CREATOR » [SATHAN](https://t.me/Sathan_of_telegram)</b>
+<b> 😇CREATOR » [OM-I](https://t.me/Om56577)</b>
 
 ## Deploy
 You can deploy this bot on Koyeb.
