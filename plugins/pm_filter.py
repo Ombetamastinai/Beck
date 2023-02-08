@@ -58,7 +58,7 @@ async def fil_mod(client, message):
       else:
           await m.edit("𝚄𝚂𝙴 :- /autofilter on 𝙾𝚁 /autofilter off")
 
-@Client.on_message((filters.group) & filters.text & filters.incoming)
+@Client.on_message(filters.group | filters.private) 
 async def give_filter(client,message):
     await global_filters(client, message)
     group_id = message.chat.id
@@ -107,7 +107,6 @@ async def give_filter(client,message):
         else:
             await auto_filter(client, message)
 
-@Client.on_message(filters.group | filters.private)
 
 @Client.on_callback_query(filters.regex(r"^next"))
 async def next_page(bot, query):
