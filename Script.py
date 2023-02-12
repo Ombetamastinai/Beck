@@ -292,8 +292,6 @@ Elsa
 
     CUSTOM_FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
-
-
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
 ▫️<a href=https://www.youtube.com/@CinematoBugTV>🔸ʏᴏᴜᴛᴜʙᴇം</a>
 
