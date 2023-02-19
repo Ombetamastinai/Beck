@@ -637,7 +637,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('💠 ʀᴇQᴜᴇꜱᴛ ɢʀᴏᴜᴘ 💠', url='https://t.me/moviesrequestaccepted')
             ],[      
             InlineKeyboardButton('‼️ ʜᴇʟᴘ ‼️', callback_data='help'),
-            InlineKeyboardButton('🔍ꜱᴇᴀʀᴄʜ ᴍᴏᴠɪᴇ', switch_inline_query_current_chat=''),
             InlineKeyboardButton('♻️ ᴀʙᴏᴜᴛ ♻️', callback_data='about')
             ],[
             InlineKeyboardButton('⚡️ ꜱᴜʙꜱᴄʀɪʙᴇ ⚡️', url='https://www.youtube.com/@CinematoBugTV')
