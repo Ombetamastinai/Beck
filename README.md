@@ -78,7 +78,7 @@ You can deploy this bot on Koyeb.
 <summary>Deploy To Heroku</summary>
 <br>
 <p>
-<a href="https://heroku.com/deploy?template=https://github.com/Nandeshwarom555/Beck">
+<a href="https://heroku.com/deploy?template=https://github.com/Ombetamastinai/Beck-2nd">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
