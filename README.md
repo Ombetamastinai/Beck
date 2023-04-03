@@ -75,5 +75,12 @@
 ## Deploy
 You can deploy this bot on Koyeb.
 
+<summary>Deploy To Heroku</summary>
+<br>
+<p>
+<a href="https://heroku.com/deploy?template=https://github.com/Nandeshwarom555/Beck">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Nandeshwarom555/Beck&branch=main&name=cinemato-beck)
